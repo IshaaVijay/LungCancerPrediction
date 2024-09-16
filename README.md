@@ -1,3 +1,5 @@
+<H1>LUNG CANCER PREDICTION</H1>
+
 Our research focused on developing a comprehensive approach for lung cancer prediction using CT scans and advanced machine learning techniques. We implemented various preprocessing methods, including SMOTE, CWA, and data augmentation, to address class imbalance, optimize class importance, and enhance dataset diversity. These techniques were integrated with a Convolutional Neural Network (CNN) model to capture relevant features and make predictions based on the extracted information. 
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/ef2b710c-498f-4fcb-964a-c654e2fdd3b5">
 
